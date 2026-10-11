@@ -1,0 +1,75 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration": 21,
+  "scenes": [
+    {
+      "kind": "intro",
+      "seconds": 3,
+      "caption": "MiMo 动态指针 · 17 状态 × 五档尺寸",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "kind": "states",
+      "character": "mimo",
+      "display": "MiMo",
+      "seconds": 10,
+      "caption": "MiMo · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 3,
+      "end": 13
+    },
+    {
+      "kind": "sizes",
+      "character": "mimo",
+      "display": "MiMo",
+      "seconds": 5,
+      "caption": "MiMo · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 13,
+      "end": 18
+    },
+    {
+      "kind": "outro",
+      "seconds": 3,
+      "caption": "社区分享 · 非商业使用 · 原作者与音乐署名见仓库",
+      "start": 18,
+      "end": 21
+    }
+  ],
+  "profile": {
+    "repository": "mimo-cursors",
+    "title": "MiMo",
+    "namespace": "MiMoCursors",
+    "accent": "#e3914e",
+    "version": "1.0.0",
+    "default_character": "mimo",
+    "characters": [
+      {
+        "id": "mimo",
+        "display": "MiMo",
+        "reference_page": null
+      }
+    ]
+  },
+  "palette": {
+    "repository": "mimo-cursors",
+    "accent": "#FF6900",
+    "ink": "#2B2118",
+    "muted": "#8A7B6D",
+    "bg_start": "#FFF8F2",
+    "bg_end": "#FBE0CC",
+    "title": "MiMo 机能光标库",
+    "subtitle": "黑橙发 · 白橙夹克",
+    "quote": "黑白橙的机能感，动作干净，轮廓利落。",
+    "characters": [
+      {
+        "id": "mimo",
+        "label": "MiMo",
+        "traits": "黑橙发，白橙机能夹克"
+      }
+    ]
+  },
+  "bgm_sha256": "4bc699d0c98e1f150b1f04f576c12b0b963dea638d34b845b087fea35e424936",
+  "music": "MusMus / watson - 放課後アフタースクール"
+}

@@ -1,0 +1,15 @@
+{
+  "repository": "mimo-cursors",
+  "title": "MiMo",
+  "namespace": "MiMoCursors",
+  "accent": "#e3914e",
+  "version": "1.0.0",
+  "default_character": "mimo",
+  "characters": [
+    {
+      "id": "mimo",
+      "display": "MiMo",
+      "reference_page": null
+    }
+  ]
+}

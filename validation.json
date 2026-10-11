@@ -1,0 +1,943 @@
+{
+  "cursor_files": 85,
+  "schemes": 5,
+  "role_count": 17,
+  "native_verified": true,
+  "records": [
+    {
+      "file": "cursors/mimo/32/Arrow.ani",
+      "sha256": "04f778d0850d5ab16f07d0bb393debf616b36cae0dac707930f7d66f6dc3b70e",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/Help.ani",
+      "sha256": "692e9a0e74e52b39e046587df9ece400941816120cdb8d8b65aac3d2a8c30fe3",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/AppStarting.ani",
+      "sha256": "1b08225a81afc073a4b72a22f301cf5b1f9aaf7764cb768f89872d32bfcd8f16",
+      "hotspot": [
+        0,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/Wait.ani",
+      "sha256": "d49f4f9768bc9f602fafa1cf2eb1d816315f3284394db1ce5d90e406712e3c27",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/Crosshair.ani",
+      "sha256": "a59819be15e3f1c9564566f01b1e550b43b4fc40848b70dea1803a7039bd61d8",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/IBeam.ani",
+      "sha256": "59f9745f1dc4855b3b21501c64c1eb16ccaa5ff992e2188d9737ca775d6e0329",
+      "hotspot": [
+        2,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/NWPen.ani",
+      "sha256": "fb7ef88f4a288260f4bec5131a5d7e920e9410a1d2ac5c75e3a4fe89cddeee5e",
+      "hotspot": [
+        1,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/No.ani",
+      "sha256": "79f1d38f2e6a31a684342d1f4a76c4d11e33a60e616782dfc904104218550262",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/SizeNS.ani",
+      "sha256": "224d0d584327db9c0f0ebeaa7ccd62b93e43c4f3a2d451e6a6c2dc7fbda59270",
+      "hotspot": [
+        2,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/SizeWE.ani",
+      "sha256": "0d1d553a29fe594ddf64fcc3c0f14f5be17644ba6d772d4e21f01c938e6d2942",
+      "hotspot": [
+        4,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/SizeNWSE.ani",
+      "sha256": "6fc62aa3fdf36db965f56b83b6c93f39cba3c5dc670a841feb2721839f334180",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/SizeNESW.ani",
+      "sha256": "dacc0411fb6968090288f9b72aae1676260f3d494bc5eb9cac842cd8d8123fae",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/SizeAll.ani",
+      "sha256": "c30f6f2343e3b462c209ea151b86fd649291e7f5a2b4a8dbfbd773f841853b4e",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/UpArrow.ani",
+      "sha256": "00033075e5706748331f248e3509e9e8451e7996d24d4fba7840303081369ce1",
+      "hotspot": [
+        4,
+        0
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/Hand.ani",
+      "sha256": "15c755aa190d44e6ac536f2cd04b9ddaf0d208673f1510581e5fce92fb32f7f2",
+      "hotspot": [
+        3,
+        0
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/Pin.ani",
+      "sha256": "a856dc3b852d821c9730017326bc80122d12f1e57263cd0a7c840028e253c9f7",
+      "hotspot": [
+        3,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/32/Person.ani",
+      "sha256": "023a3dc1901d6e9107c3c779beb80fe128130d1c6c5816bc9a1151451cd76025",
+      "hotspot": [
+        4,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/Arrow.ani",
+      "sha256": "0ae458d636f7e6cb652cb7a0054fc62f8e442d791a700f53b8adc37dee1272ec",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/Help.ani",
+      "sha256": "7bb85221e3dcaf23aabbfee0d056a81413edb0dba7e6b81691df26f50dc7681d",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/AppStarting.ani",
+      "sha256": "46c64b75cba0f48804484b59a5cf1f19b1a6ff3a7ae918e5204a3f2e320b80fe",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/Wait.ani",
+      "sha256": "b818f7dff4a7344c32f006fc770652e76cb091c2370baf42a892b71a51b7e6bf",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/Crosshair.ani",
+      "sha256": "b8593ab3719e431db9bc95ad0f6146c96e1d2342c419923bd2eecd8d5c865ea9",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/IBeam.ani",
+      "sha256": "5ef57fd71fc5eb18230e61f1f82370ed39c773abdc31856201394c72ff961912",
+      "hotspot": [
+        3,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/NWPen.ani",
+      "sha256": "cf757e5a04e2316d7c7707deae84a02819af9c006d897d1e58166a87ea184a98",
+      "hotspot": [
+        1,
+        12
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/No.ani",
+      "sha256": "025ec518c9f4e300d3d82f01a9d2388bf167acfb497768d0ce444a6e98e6f400",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/SizeNS.ani",
+      "sha256": "3d56dcd16123cf50c6ba95a677e43ae5229646d5be157154585cdbfa00a90d99",
+      "hotspot": [
+        3,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/SizeWE.ani",
+      "sha256": "f0f6e28c4164c8f4c03fe3a127cd51eede82f38adb570769cec16b29eb8a6097",
+      "hotspot": [
+        6,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/SizeNWSE.ani",
+      "sha256": "25854911b36aeb7f4d6b7c7aab742f7a703b1ef5f74d409ae51be636821bb5f3",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/SizeNESW.ani",
+      "sha256": "f58f631b95435e2844beaf4126a0599c59f07d331edd21c45517edd27a77f0dd",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/SizeAll.ani",
+      "sha256": "6e23a6275940825f12409a0368bd6cbdc117b862d566579ec885556cacfbde42",
+      "hotspot": [
+        6,
+        6
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/UpArrow.ani",
+      "sha256": "c7acf1fba0602d64e31a3dbedf50ea68a2ca4660e5955696fea64e36bf5f08de",
+      "hotspot": [
+        5,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/Hand.ani",
+      "sha256": "c141e021702fec7362e1cbe724fbbc4a28159bc1c2eac61c378ade9c54b28b1b",
+      "hotspot": [
+        4,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/Pin.ani",
+      "sha256": "eb5e1bb0344d377c4ff20fdc6a0a9fa7e576f33a37059d2b286e9f380e13a323",
+      "hotspot": [
+        5,
+        12
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/48/Person.ani",
+      "sha256": "bc723fdf2a598ba66940a44642e2a8075d110ab330ca69f3a7244a671c91a744",
+      "hotspot": [
+        6,
+        3
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/Arrow.ani",
+      "sha256": "bb5e0fb8ec7c9b545ab205cd7fd852758a528cbb4bab096f2f51e136e09ecc30",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/Help.ani",
+      "sha256": "fa4037c6177229ab5e6975a8adcf66c3e1045e887db9679a8e50f640f4d58d0c",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/AppStarting.ani",
+      "sha256": "6d38d1820dab154a8ce3e1916d5c5b1c3f99e6ba6aa69823f14f2119bb1902ce",
+      "hotspot": [
+        1,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/Wait.ani",
+      "sha256": "89cb517f3f25fc7fd2252ca811d0dab7743234e6a1ea93c1b0400f8b5875eff1",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/Crosshair.ani",
+      "sha256": "4d5d7be77808986962e035f3f836006cd43b0ac071cca35d8b37d7c36ed93ceb",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/IBeam.ani",
+      "sha256": "01d1efa7bf37df904439d363b4113e5fa4d5be52fb3acb3ee11d840dd4bd9fa5",
+      "hotspot": [
+        4,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/NWPen.ani",
+      "sha256": "8a23f454dc71d17e3e8bf53f2025191977c1a50f002f58de21f7370ccae21f51",
+      "hotspot": [
+        1,
+        16
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/No.ani",
+      "sha256": "5b4cef4e6071f9af0ee63afafa4615465ebd369db648105816be7b9be2dade54",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/SizeNS.ani",
+      "sha256": "70193b4c7d022bcb7ae62b7ceb42ed7ff09dcc8cd5e6d4c4b9e9604ccb3f7fce",
+      "hotspot": [
+        3,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/SizeWE.ani",
+      "sha256": "f4e875c91736177237c45204f790a62169a79b79998feca3d4667a6aa8d5b2cb",
+      "hotspot": [
+        8,
+        3
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/SizeNWSE.ani",
+      "sha256": "318839df806c9cd48665c65986ea8c96d3500fd6bc61e9b0c28e12c0168f9f92",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/SizeNESW.ani",
+      "sha256": "7138a95389d5ddd33cf266bcd82497c986d29d17457fb54d5d3ea0d8457bfa4e",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/SizeAll.ani",
+      "sha256": "5b4b91eee4700658d55a616489d93f98c22b0f224e0a19dba05efeeeb1eab3dd",
+      "hotspot": [
+        8,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/UpArrow.ani",
+      "sha256": "12d6c161a40f18602b6243e1023d8be6bfdd2d8d9779477c5db329b982230c6f",
+      "hotspot": [
+        7,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/Hand.ani",
+      "sha256": "d8daf13f305b61e3d07bb3a6d1d26efda1cd03e446f2cbbf26b034d9eb07d5f0",
+      "hotspot": [
+        5,
+        1
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/Pin.ani",
+      "sha256": "9aa7dc8dae127a996ce0e6168fe5d94cb8aba7764d91ae8218992c1d4ca714a2",
+      "hotspot": [
+        7,
+        16
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/64/Person.ani",
+      "sha256": "451a436b1d40da5e505f701e9332a8c0887a159535cc9cbf21563a8cb33a815b",
+      "hotspot": [
+        8,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/Arrow.ani",
+      "sha256": "5db1eb11fb1ef3a4975cac6677a1607a8dda8049c41d0bfe239601485c16368a",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/Help.ani",
+      "sha256": "dd8956784c1310c640e0c48cc76a9beea64348e126455a6adb1775f4d30c5b9e",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/AppStarting.ani",
+      "sha256": "545f86f404dee4d2f3aaafc52bd276f78b65d30316be3ba315b3aefd4e39ad93",
+      "hotspot": [
+        2,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/Wait.ani",
+      "sha256": "20db189f01e6aea23dbb59b81dd974dcb1e460012fd27276323e9b4977d91e17",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/Crosshair.ani",
+      "sha256": "e514cde7d792206b939eac2a92e54f19e994d7a08ac6c9c9b727da61d8989405",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/IBeam.ani",
+      "sha256": "f72cdd913ad58fd31f06f56158ecfbc858999694ecfd89656a70e0242153559c",
+      "hotspot": [
+        8,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/NWPen.ani",
+      "sha256": "0952c0db880117f7bc054c25a68513a694c966041bb0aad92d673b2f22e27e73",
+      "hotspot": [
+        2,
+        32
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/No.ani",
+      "sha256": "8c4292dee298c4e02eed13754608630dbb2246cde96d996490f6a7c757662b45",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/SizeNS.ani",
+      "sha256": "24492937f3450123c3c4307486d5902d5968ad3f588fa7df76b970777ea5e71d",
+      "hotspot": [
+        7,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/SizeWE.ani",
+      "sha256": "eb1e7168ec65bf650930d8a2c0745e533d462aa9ff8e1c13aa158ecebe2163b0",
+      "hotspot": [
+        17,
+        7
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/SizeNWSE.ani",
+      "sha256": "76efe478478c48fbf1a5bb8ea1b290aa5fdefb2cf2f463443a86021ccbfb0fa3",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/SizeNESW.ani",
+      "sha256": "530f14af0e8762b89d3b2366d9566a653a0dcf4db9113bf38bd80204c6aa1c44",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/SizeAll.ani",
+      "sha256": "11a7752d3041fc57627d7e2126c4a48ed0cdddc8598a4d5b466be723995995a9",
+      "hotspot": [
+        17,
+        17
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/UpArrow.ani",
+      "sha256": "eeadafe619b1600be94b6e1edb5efa80e5ea9f811b20ef459a77394413be6968",
+      "hotspot": [
+        14,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/Hand.ani",
+      "sha256": "7f790526ab948e4858bba31b1d52b6448226b7c6b448161c2d39dc78f27f0b2f",
+      "hotspot": [
+        10,
+        2
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/Pin.ani",
+      "sha256": "266c19285c52ef73258f9949602c0afcff901a607c20a301041e23e961197f72",
+      "hotspot": [
+        13,
+        32
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/128/Person.ani",
+      "sha256": "b1615a937a0018c8787a98b0a26b493b7338cd05f52ed1c0cb9953eb445b59dc",
+      "hotspot": [
+        15,
+        8
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/Arrow.ani",
+      "sha256": "aadf9c2cd649c19dd5e175c462c2fc6a4c3ffd1c7953b3464a7f18519cc1b61e",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/Help.ani",
+      "sha256": "888d6ea6b6bd738ff0a1420cdb02e91138cb65374bb0a6b91ef9dd7dcad95cb4",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/AppStarting.ani",
+      "sha256": "05743f199b7ea4ffd1a1591c487a6982af495ce54f24ff6e5e8f8bd163c8bde8",
+      "hotspot": [
+        4,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/Wait.ani",
+      "sha256": "868d6402c8344d53bf177df8779e60ba27c6627484e4664b320e461c3eb0f636",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/Crosshair.ani",
+      "sha256": "8939ba9714f4e29f71626eace5603b0608a28302c9143922818b50fa6fb0ce64",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/IBeam.ani",
+      "sha256": "d0c288fc434cc36b1dc325d3355cb759b75147899e2863c499cf39834cea9bd3",
+      "hotspot": [
+        17,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/NWPen.ani",
+      "sha256": "8a8c1b0a440428b27ed6abaed1fa1ebc704396c9972aa768232942aa179426bf",
+      "hotspot": [
+        4,
+        63
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/No.ani",
+      "sha256": "4f5fad628adf5dac7512db13a424b12fb2b6d71e66243bcdefb71d40aec2778f",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/SizeNS.ani",
+      "sha256": "8e24d5ee57eb894526f34fba85796cd13d19e0e4fd1ae3e371f12de5275c0ed2",
+      "hotspot": [
+        13,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/SizeWE.ani",
+      "sha256": "23556fcf990033625941b6c25688851814576dbd2329e32e67a67cae5d339cb2",
+      "hotspot": [
+        34,
+        13
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/SizeNWSE.ani",
+      "sha256": "81b57c3202db4f5e726164ce2c6092d98b37714401a6faec7b452fb3a8030611",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/SizeNESW.ani",
+      "sha256": "75537d834fe23fc82dfb204077e333847bf8732eb86cd9ea33a1e109bdada99d",
+      "hotspot": [
+        34,
+        34
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/SizeAll.ani",
+      "sha256": "a76239609267a8f25e7373483478c3fa4122121d9d96c338744c70844e9f7130",
+      "hotspot": [
+        34,
+        33
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/UpArrow.ani",
+      "sha256": "83922dfe96a1f894dd29c647dbc70595fed9e8685cb0603d812a38aa1b79a67e",
+      "hotspot": [
+        29,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/Hand.ani",
+      "sha256": "544e0d272072b1c7cc79550c31bd013a171baadfaea9f6e199ac3093320220e3",
+      "hotspot": [
+        21,
+        4
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/Pin.ani",
+      "sha256": "0a23328375d30df72a0b3ea6dd1c26e7fe2b4a07af5f77b2f1ff8121f024bc40",
+      "hotspot": [
+        26,
+        64
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    },
+    {
+      "file": "cursors/mimo/256/Person.ani",
+      "sha256": "095b05ddda037c4b665d773d7e7d16e6f739272369c40f85bd8f65d05b41f5be",
+      "hotspot": [
+        31,
+        15
+      ],
+      "frames": 8,
+      "native_loaded": true,
+      "native_draw_steps": 8
+    }
+  ]
+}

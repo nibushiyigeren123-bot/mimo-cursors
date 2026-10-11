@@ -1,0 +1,14 @@
+{
+  "character": "mimo",
+  "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a12d0c-8375-79f0-ace9-afa1b234d5a3\\exec-bd083784-7a73-47e3-9df3-0a3d2227d934.png",
+  "target": "E:\\cladue缓存\\AI全家动态指针_20261012\\characters\\mimo\\poses-v1.png",
+  "sha256": "c8a71654f41149e14cf265b565e7ef717d2ec6d1a0e39f16f91baaee94f267fc",
+  "size": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "method": "built-in image_gen",
+  "seed": "not exposed by built-in tool",
+  "original_preserved": true
+}
