@@ -32,10 +32,16 @@ MiMo 的社区 Q 版 Windows 指针，每位 **17 种状态 × 32 / 48 / 64 / 12
 
 ## 来源和署名
 
-角色参考来自用户提供的两集 [第一个视频](https://www.bilibili.com/video/BV1h9a26vEzd/)、[第二个视频](https://www.bilibili.com/video/BV1JEpv64ERE/)，以及视频注明的 ZipZipPipe [原始图库](https://www.pixiv.net/artworks/148186519)。具体角色参考和使用条件见 [ASSET_LICENSE.md](ASSET_LICENSE.md)。本项目的 Q 版动作是依据这些参考重新绘制并合成，保留角色来源署名。
+角色参考来自用户提供的两集 [第一个视频](https://www.bilibili.com/video/BV1h9a26vEzd/)、[第二个视频](https://www.bilibili.com/video/BV1JEpv64ERE/)中的 MiMo 画面。这一具体造型的原始插画作者尚未确认，不把其他角色图库标作 MiMo 原图。具体角色参考和使用条件见 [ASSET_LICENSE.md](ASSET_LICENSE.md)。本项目的 Q 版动作是依据这些参考重新绘制并合成，保留角色来源署名。
 
 DS 提供已获用户认可的海报版式，并为本轮各公司提供配色与文案；Codex 渲染实际角色和指针、检查版面及数据。代码 MIT；角色美术不套用代码许可。本项目是社区作品。
 
 ## 验证
 
 Windows User32 逐 ANI 加载、热点与八帧绘制对照通过；SetupAPI 隔离安装核对所有 INF 及方案路径；隔离测试检查安装、恢复和失败回滚；C# 保持器角色识别进行了真实编译测试。回执见 `validation.json`、`inf-installation-validation.json` 与 `verification/`。
+
+## B站介绍视频与文案
+
+[完整介绍视频](previews/introduction-bilibili.mp4) · [标题、简介、时间目录、标签和置顶评论](B站投稿文案.md)
+
+视频分别展示角色、全部 17 状态、分组大图、五档尺寸与安装方法；提供 SRT 字幕，配乐及角色署名见投稿文案。
