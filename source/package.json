@@ -3,7 +3,7 @@
   "title": "MiMo",
   "namespace": "MiMoCursors",
   "accent": "#e3914e",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "default_character": "mimo",
   "characters": [
     {
