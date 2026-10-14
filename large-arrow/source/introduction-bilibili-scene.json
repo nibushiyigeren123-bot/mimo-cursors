@@ -1,0 +1,165 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "duration": 39,
+  "scenes": [
+    {
+      "kind": "intro",
+      "seconds": 3,
+      "caption": "MiMo 动态指针 · 17 状态 × 五档尺寸",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "kind": "states",
+      "character": "mimo",
+      "display": "MiMo",
+      "seconds": 4,
+      "caption": "MiMo · 全部 17 状态；绘制姿态加八相位二维微动",
+      "start": 3,
+      "end": 7
+    },
+    {
+      "kind": "focus",
+      "character": "mimo",
+      "display": "MiMo",
+      "roles": [
+        "Arrow",
+        "Help",
+        "Crosshair"
+      ],
+      "seconds": 3,
+      "caption": "MiMo · 正常、帮助与精确选择",
+      "start": 7,
+      "end": 10
+    },
+    {
+      "kind": "focus",
+      "character": "mimo",
+      "display": "MiMo",
+      "roles": [
+        "AppStarting",
+        "Wait",
+        "IBeam"
+      ],
+      "seconds": 3,
+      "caption": "MiMo · 后台运行、忙碌与文本选择",
+      "start": 10,
+      "end": 13
+    },
+    {
+      "kind": "focus",
+      "character": "mimo",
+      "display": "MiMo",
+      "roles": [
+        "Hand",
+        "Person",
+        "NWPen"
+      ],
+      "seconds": 3,
+      "caption": "MiMo · 链接、人员与手写选择",
+      "start": 13,
+      "end": 16
+    },
+    {
+      "kind": "focus",
+      "character": "mimo",
+      "display": "MiMo",
+      "roles": [
+        "No",
+        "Pin",
+        "UpArrow"
+      ],
+      "seconds": 3,
+      "caption": "MiMo · 不可用、位置与候选选择",
+      "start": 16,
+      "end": 19
+    },
+    {
+      "kind": "focus",
+      "character": "mimo",
+      "display": "MiMo",
+      "roles": [
+        "SizeNS",
+        "SizeWE"
+      ],
+      "seconds": 3,
+      "caption": "MiMo · 垂直与水平调整",
+      "start": 19,
+      "end": 22
+    },
+    {
+      "kind": "focus",
+      "character": "mimo",
+      "display": "MiMo",
+      "roles": [
+        "SizeNWSE",
+        "SizeNESW",
+        "SizeAll"
+      ],
+      "seconds": 3,
+      "caption": "MiMo · 两种对角调整与移动",
+      "start": 22,
+      "end": 25
+    },
+    {
+      "kind": "sizes",
+      "character": "mimo",
+      "display": "MiMo",
+      "seconds": 5,
+      "caption": "MiMo · 实际像素 32 / 48 / 64 / 128 / 256 px，热点在功能符号上",
+      "start": 25,
+      "end": 30
+    },
+    {
+      "kind": "install",
+      "seconds": 6,
+      "caption": "安装方法 · 完整解压 → 选择角色与尺寸 → 可选开启尺寸保持",
+      "start": 30,
+      "end": 36
+    },
+    {
+      "kind": "outro",
+      "seconds": 3,
+      "caption": "社区分享 · 非商业使用 · 仓库与下载地址见简介",
+      "start": 36,
+      "end": 39
+    }
+  ],
+  "profile": {
+    "repository": "mimo-cursors",
+    "title": "MiMo",
+    "namespace": "MiMoCursors",
+    "accent": "#e3914e",
+    "version": "1.0.0",
+    "default_character": "mimo",
+    "characters": [
+      {
+        "id": "mimo",
+        "display": "MiMo",
+        "reference_page": null
+      }
+    ]
+  },
+  "palette": {
+    "repository": "mimo-cursors",
+    "accent": "#FF6900",
+    "ink": "#2B2118",
+    "muted": "#8A7B6D",
+    "bg_start": "#FFF8F2",
+    "bg_end": "#FBE0CC",
+    "title": "MiMo 机能光标库",
+    "subtitle": "黑橙发 · 白橙夹克",
+    "quote": "黑白橙的机能感，动作干净，轮廓利落。",
+    "characters": [
+      {
+        "id": "mimo",
+        "label": "MiMo",
+        "traits": "黑橙发，白橙机能夹克"
+      }
+    ]
+  },
+  "bgm_sha256": "4bc699d0c98e1f150b1f04f576c12b0b963dea638d34b845b087fea35e424936",
+  "music": "MusMus / watson - 放課後アフタースクール"
+}
