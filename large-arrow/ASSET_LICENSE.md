@@ -19,3 +19,7 @@ MiMo 的原始作者尚未确认（仅含 MiMo 仓库时适用），豆包全身
 DS 设计原有分享海报版式及本轮公司配色/文案；Codex 根据真实指针渲染与校对，海报 HTML 一并保留。
 
 展示视频使用 MusMus / watson《放課後アフタースクール》：https://musmus.main.jp/ 。音乐按 MusMus 使用规则署名，https://musmus.main.jp/info.html 。音乐不适用本项目代码或新增动作许可，不单独作为音乐素材包分发。
+
+## MiMo 短发版补充
+
+短发版依据用户确认的 CD 工作室／雷霆大思考动画角色参考和白色小米 mi 发夹标志生成九张动作源图；由 Codex 调用图像生成工具制作。完整参考、生成初稿与终稿、提示词及提取记录保存在 source/characters/mimo-short。原 MiMo 形象继续保留，不以短发版替换；不将此新增形象标注为已确认的 ZipZipPipe 原作。

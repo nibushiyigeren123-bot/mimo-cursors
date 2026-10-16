@@ -1,0 +1,203 @@
+{
+  "character": "mimo-short",
+  "display": "MiMo 短发版",
+  "source": "User-confirmed CD工作室/雷霆大思考 animation identity",
+  "identity": "short brown bob, orange cheek streak, amber eyes, orange-white jacket, Xiaomi mi clip",
+  "superseded": "Letter M was explicitly withdrawn in animation STATE v6; use confirmed-mi-emblem.png.",
+  "provider": "image_gen built-in tool",
+  "seed": null,
+  "modelVersion": null,
+  "poseSheetSha256": "00eb138f71e0502f591a2967b5207db32d4a52b32448ef02e9464b3e87196e80",
+  "poses": [
+    {
+      "pose": "idle",
+      "sheetCell": [
+        0,
+        0,
+        420,
+        454
+      ],
+      "contentBounds": [
+        95,
+        36,
+        357,
+        442
+      ],
+      "outputSize": [
+        286,
+        430
+      ],
+      "sourcePixelsUnscaled": true,
+      "sha256": "265b119732c1fecb2af3fd6bc00ad5bc62370e75bd78eee660283adf4e5b949c"
+    },
+    {
+      "pose": "walking-right",
+      "sheetCell": [
+        420,
+        0,
+        828,
+        454
+      ],
+      "contentBounds": [
+        62,
+        41,
+        329,
+        444
+      ],
+      "outputSize": [
+        291,
+        427
+      ],
+      "sourcePixelsUnscaled": true,
+      "sha256": "a5b56027292fe35a915b313501cec648d0cd1a06af012779a28e7d38c964fb80"
+    },
+    {
+      "pose": "walking-left",
+      "sheetCell": [
+        828,
+        0,
+        1215,
+        454
+      ],
+      "contentBounds": [
+        42,
+        36,
+        309,
+        446
+      ],
+      "outputSize": [
+        291,
+        434
+      ],
+      "sourcePixelsUnscaled": true,
+      "sha256": "880f862372aa66fa8ec2e720ae56ff7e9755bca834415c6bc1d647a2f276e31c"
+    },
+    {
+      "pose": "waving",
+      "sheetCell": [
+        0,
+        454,
+        420,
+        861
+      ],
+      "contentBounds": [
+        88,
+        12,
+        362,
+        406
+      ],
+      "outputSize": [
+        298,
+        418
+      ],
+      "sourcePixelsUnscaled": true,
+      "sha256": "e72f909d30994fba6418d7a8915dea58449f6cb02b4020277ed8d7e3fd398353"
+    },
+    {
+      "pose": "jumping",
+      "sheetCell": [
+        420,
+        454,
+        828,
+        861
+      ],
+      "contentBounds": [
+        57,
+        9,
+        369,
+        384
+      ],
+      "outputSize": [
+        336,
+        399
+      ],
+      "sourcePixelsUnscaled": true,
+      "sha256": "7b014a423900fbca5e85e15209b1909a4637b5ac44c371884a184cfdac4dd7f6"
+    },
+    {
+      "pose": "failed",
+      "sheetCell": [
+        828,
+        454,
+        1215,
+        861
+      ],
+      "contentBounds": [
+        51,
+        7,
+        320,
+        404
+      ],
+      "outputSize": [
+        293,
+        421
+      ],
+      "sourcePixelsUnscaled": true,
+      "sha256": "8ab9aca40e2e6e1aac6284158c009b2c92d2d546264607229b49124ccd2ba894"
+    },
+    {
+      "pose": "waiting",
+      "sheetCell": [
+        0,
+        861,
+        420,
+        1295
+      ],
+      "contentBounds": [
+        97,
+        6,
+        363,
+        405
+      ],
+      "outputSize": [
+        290,
+        423
+      ],
+      "sourcePixelsUnscaled": true,
+      "sha256": "bf93a9f02af4993c9d48cf4b59cdf2e3ab4f302aaa0f3b97340828baa85749cb"
+    },
+    {
+      "pose": "working",
+      "sheetCell": [
+        420,
+        861,
+        828,
+        1295
+      ],
+      "contentBounds": [
+        65,
+        1,
+        335,
+        406
+      ],
+      "outputSize": [
+        294,
+        429
+      ],
+      "sourcePixelsUnscaled": true,
+      "sha256": "8d9221c18277901f979061efa1756d6cc5ebc642473865ac0235be8c00351cd7"
+    },
+    {
+      "pose": "review",
+      "sheetCell": [
+        828,
+        861,
+        1215,
+        1295
+      ],
+      "contentBounds": [
+        61,
+        9,
+        332,
+        405
+      ],
+      "outputSize": [
+        295,
+        420
+      ],
+      "sourcePixelsUnscaled": true,
+      "sha256": "b0f129b516797fd22aa9ae163ba6c3e7c9817f8518a1bac77a1eb3d0cab68a8d"
+    }
+  ],
+  "motion": "9 generated pose drawings, same existing 8-phase procedural motion as other characters; not hand-drawn frame-by-frame animation"
+}

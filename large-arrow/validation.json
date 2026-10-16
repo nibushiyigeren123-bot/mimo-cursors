@@ -1,0 +1,104 @@
+{
+  "version": "1.2.0",
+  "success": true,
+  "fileVerification": {
+    "repository": "mimo-cursors",
+    "aniFiles": 442,
+    "decodedFrames": 3536,
+    "characterIdentityFrames": 1904,
+    "maxGapError": 1.0,
+    "rawSourceFilesUnchanged": 20,
+    "paletteChecks": [
+      {
+        "character": "mimo",
+        "edition": "original",
+        "size": 96,
+        "outline": "#2b2118",
+        "verified": true
+      },
+      {
+        "character": "mimo",
+        "edition": "original",
+        "size": 256,
+        "outline": "#2b2118",
+        "verified": true
+      },
+      {
+        "character": "mimo-short",
+        "edition": "original",
+        "size": 96,
+        "outline": "#2b2118",
+        "verified": true
+      },
+      {
+        "character": "mimo-short",
+        "edition": "original",
+        "size": 256,
+        "outline": "#2b2118",
+        "verified": true
+      },
+      {
+        "character": "mimo",
+        "edition": "plus",
+        "size": 96,
+        "outline": "#2b2118",
+        "verified": true
+      },
+      {
+        "character": "mimo",
+        "edition": "plus",
+        "size": 256,
+        "outline": "#2b2118",
+        "verified": true
+      },
+      {
+        "character": "mimo-short",
+        "edition": "plus",
+        "size": 96,
+        "outline": "#2b2118",
+        "verified": true
+      },
+      {
+        "character": "mimo-short",
+        "edition": "plus",
+        "size": 256,
+        "outline": "#2b2118",
+        "verified": true
+      }
+    ],
+    "success": true
+  },
+  "actualWindowsAcceptance": {
+    "repository": "mimo-cursors",
+    "observations": 58,
+    "sameDefaultCaptures": 28,
+    "nativeCharacterComparisons": [
+      {
+        "character": "mimo",
+        "samePhysicalSize": true,
+        "opaquePixelsCompared": 2233,
+        "maxRGBDifference": 0,
+        "ordinaryCompositionPixelsExcluded": 0,
+        "offset": [
+          15,
+          3
+        ]
+      },
+      {
+        "character": "mimo-short",
+        "samePhysicalSize": true,
+        "opaquePixelsCompared": 2371,
+        "maxRGBDifference": 0,
+        "ordinaryCompositionPixelsExcluded": 0,
+        "offset": [
+          12,
+          4
+        ]
+      }
+    ],
+    "success": true
+  },
+  "environment": "Windows11-Lab; interactive LabUser; 96DPI; system preference32 and48",
+  "scope": "This repository: real CMD for every character/tier; all17 native system role sizes; default-scheme pixel identity. Shared edge-case tests: Gemini reboot, user-size48, INF96/256, legacy-backup filtering, cache repair, matching-name foreign paths.",
+  "limitations": "Actual VM acceptance covers this Windows11 build at96DPI; otherWindows versions and DPI combinations are not claimed tested."
+}

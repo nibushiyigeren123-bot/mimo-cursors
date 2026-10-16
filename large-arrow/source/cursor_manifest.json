@@ -1,6 +1,24 @@
 [
   {
     "character": "mimo",
+    "size": 96,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/mimo/96/Arrow.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "f900528bba4660eda7776c336c88c6639bd3fb12684bfd7cdc7ad97e4462a53a"
+  },
+  {
+    "character": "mimo",
     "size": 32,
     "role": "Arrow",
     "label": "正常选择",
@@ -13,7 +31,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "9a18f5aed90c6902c32f0a34d13d8a9f195fb127e4b4010ba21b4e23e842af0a"
   },
   {
     "character": "mimo",
@@ -29,7 +49,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "74abcdb579a6cc71819497f826626d68ef6ddb89da6e4965c1ebdf9775e3470f"
   },
   {
     "character": "mimo",
@@ -45,7 +67,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "19d66a21409764c80579f5f18b8f66fd5615537f4e7e8b607cc85b3eb40afa0e"
   },
   {
     "character": "mimo",
@@ -61,7 +85,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "4c3ca7891bbe7a6f3c96f3b9e75ffdc4c689b91820f9c944134c48fd27dc2132"
   },
   {
     "character": "mimo",
@@ -77,7 +103,9 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "a8326de97cc62a77f05b007233fd9be3b06246c8703118b128f4a85f05860498"
   },
   {
     "character": "mimo",
@@ -93,7 +121,27 @@
     "jiffies": 12,
     "frame_ms": 200.0,
     "action": "idle",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "15af4276bb0ceba3f9ae70850899ad6d8c56f00a2bd0dce79b0135183bb3c1b4"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/mimo/96/Help.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "0696ea7089b966594fda18c7cf68d89bcf7a8b769e99f97495c58d3b5da08404"
   },
   {
     "character": "mimo",
@@ -109,7 +157,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "8ee94bccd1ee4e09d0b958d13b2d45721d43d5643fcf6c7220669798560611ce"
   },
   {
     "character": "mimo",
@@ -125,7 +175,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "7754febef36608dfa54ed9f198ea2e4ea9ae02110b84b4f87995ddc6efe9fe97"
   },
   {
     "character": "mimo",
@@ -141,7 +193,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "1029ca95993383b25435b8ee42b9445cd2f2ded54246d6f3e2c97a50ab6edc76"
   },
   {
     "character": "mimo",
@@ -157,7 +211,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "13dcffe32cea1fe5dfd8dd6b683da4cbdc4b2f9997217d8db135c54d90542eff"
   },
   {
     "character": "mimo",
@@ -173,7 +229,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "1b0f2818b3e6ae9352b5020d60193956c02eedf07fd4e7df5ec17f747fe18fdf"
   },
   {
     "character": "mimo",
@@ -189,7 +247,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "c536e02658569f9bb10e643e38916290738d0dcb63034a59b5c88674ba5647b4"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/mimo/96/AppStarting.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "2b7fa74670eb40d060ecfb56f18e28b6d127881c47a011b7d5e0ad6ef2272476"
   },
   {
     "character": "mimo",
@@ -205,7 +283,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "46afe5a0cd9237a6bf9c781520bb832df612521fb91bc2fba9430cee643c0271"
   },
   {
     "character": "mimo",
@@ -221,7 +301,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "ee650ba4ff4a0cf45ecf731358adc1e38c85cd655d0f26ab305cb73bd6174362"
   },
   {
     "character": "mimo",
@@ -237,7 +319,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "803ac439603acbb8790de77adcb3911ff1eaa99ae66a1dbdc3ac45c44c8b802e"
   },
   {
     "character": "mimo",
@@ -253,7 +337,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "58967cd4789e84c1247258d57c50a9cbe81ffec1a0921f9abb4a082f759efd3a"
   },
   {
     "character": "mimo",
@@ -269,7 +355,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "9045ba87c23761936e7914e1656319757af6c26a7366c679d2d6a7ed66b8bacf"
   },
   {
     "character": "mimo",
@@ -285,7 +373,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "612ca9b1b25d4f11f4917e7df6fd91183a656f5996f2ffaf374e164a8a78e7be"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/mimo/96/Wait.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "7e2e95e11420c622a67bad7426f4513444b777c827abd1a27e533eeb1a368dbd"
   },
   {
     "character": "mimo",
@@ -301,7 +409,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "81b988e65f2487fbe4dc996d2c2f56b922f05e9d4a10e30673b00f2e8e253e9b"
   },
   {
     "character": "mimo",
@@ -317,7 +427,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "6d8e804729d16bb2c3d50639fe241a27764b19f29bbca759e20b9c63df115a5c"
   },
   {
     "character": "mimo",
@@ -333,7 +445,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "56be30d78ff84a48e5df9aff60c35ba2346fd071f1c6ff52138f58ce2ffb35d1"
   },
   {
     "character": "mimo",
@@ -349,7 +463,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "edef619c30fd647e89dac26b8cd12ad0fb416ddcce415dfa23d4e78911a15bdb"
   },
   {
     "character": "mimo",
@@ -365,7 +481,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "7de126d56ce62515c01fc9f6232782287b53c9110695c69896558e81646f031b"
   },
   {
     "character": "mimo",
@@ -381,7 +499,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "d2db5414a426d0e25a369bc610df4fb90f760f362f7314fe7a17663564fbf57f"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/mimo/96/Crosshair.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "685f0d4c24f7bce460fe7226235795c6f60f8344ca7130e864be94799e3a745d"
   },
   {
     "character": "mimo",
@@ -397,7 +535,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "8b59411ec72d27fa2762052d07552a411810fda471285572c91edf902ab3fc4d"
   },
   {
     "character": "mimo",
@@ -413,7 +553,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "46605d3459890bee92485d1b6a0e60b2f4f81b86971d456dca1710aeff4a2e99"
   },
   {
     "character": "mimo",
@@ -429,7 +571,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "d5fdea174a5dc13169e2a6410ca74d8eba2d698fe23a9fc7a23156f855041b99"
   },
   {
     "character": "mimo",
@@ -445,7 +589,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "9fcb7cfe92cb722d86dd40ebfdc3e30e9454ab2986ff8958da8eaa7958ede770"
   },
   {
     "character": "mimo",
@@ -461,7 +607,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "4e36e62199829d7027b62ae616e97ce2461a90d781a9e2827fc046ee2dac6742"
   },
   {
     "character": "mimo",
@@ -477,7 +625,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "review",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "342007bc27b735d79b327ea940c39fbda8144198387330a9949309be245c60e6"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/mimo/96/IBeam.ani",
+    "hotspot": [
+      11,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "a85606dcb91fdd2b12d82eabaa8448381570daf871fb4cc48561d0d2e3cfbbc3"
   },
   {
     "character": "mimo",
@@ -493,7 +661,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "dc991773d041e8073daf69c13a17c39b014e4e832492e407e218a0f9e1fa1d29"
   },
   {
     "character": "mimo",
@@ -509,7 +679,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "2495b5aac865ac08dd1f78a421d4b5a053c76aa48c005c6fcf85a06d7449e8fe"
   },
   {
     "character": "mimo",
@@ -525,7 +697,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "d666094b86095734c166185b94b5730afaadcf917eed011e8bd9c6ec104dc077"
   },
   {
     "character": "mimo",
@@ -541,7 +715,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "3d1f38546e4305290c9e6021eb14e92eb86eedd596ba1be5aedad073b86ccaf2"
   },
   {
     "character": "mimo",
@@ -557,7 +733,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "7749ac720f8e13a9ed31802af6036d80e301a2c9108e6931498dd8e11ca52215"
   },
   {
     "character": "mimo",
@@ -573,7 +751,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "fc609de59565638636535b8645b0327d806f387845463793c1fbbb62ca0317d1"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/mimo/96/NWPen.ani",
+    "hotspot": [
+      5,
+      33
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "ff7782834ce2eb5d4a79a6df54eb7ab0f6d2005eb0dd83252bb65505281ffe6a"
   },
   {
     "character": "mimo",
@@ -589,7 +787,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "430e4f1d1e9d7a4b1f13ad052bce1d1c4ce4d6176aeef359ed782cf4ceaac69c"
   },
   {
     "character": "mimo",
@@ -605,7 +805,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "d347f5dad6fa1a222e4ba2f271cc365877864e7fb6dbe9a6bb0516d39edc5d77"
   },
   {
     "character": "mimo",
@@ -621,7 +823,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "58ec5d2addb04c274054b00eb65c30b2ae36f417866c52332ef96f74f1d27cd2"
   },
   {
     "character": "mimo",
@@ -637,7 +841,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "71f06135846ab5512113cc6ca9683b955cc3aa3d04c3697f127c3abdbb435a96"
   },
   {
     "character": "mimo",
@@ -653,7 +859,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "f6dca853caffbbbf58df0c22369ac307e424c446c713c9a4b070ed20a0f7c848"
   },
   {
     "character": "mimo",
@@ -669,7 +877,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "working",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "05cc4a37a8ba8d9af47281cbbd3f2bfcc091dbefc04a2efa4df1098c3c56e9db"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/mimo/96/No.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "90840f80440cd8f3c66293bfa83e76f4be0caaca1a01ffbf5cd8eb865d2bcc9c"
   },
   {
     "character": "mimo",
@@ -685,7 +913,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "ae6138b614482aa36a967e1178883cc49b30b9bf4474ba828c34947acdf653b8"
   },
   {
     "character": "mimo",
@@ -701,7 +931,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "e0ccefbfee1f1a40f4c209a085a91af9aaacb508e1d1d6d03e05d814c2f991a4"
   },
   {
     "character": "mimo",
@@ -717,7 +949,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "53fdb8963886832a695ba849f5c3d32fdbb7602771cd6efac1ad93dc11f857e9"
   },
   {
     "character": "mimo",
@@ -733,7 +967,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "93f1f983a6e7c80695a82aa45f332c4f596254c304e992e3af73bdc6d2ac5475"
   },
   {
     "character": "mimo",
@@ -749,7 +985,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "2725d6db058d711354c793291a58a8246bd53f69798dcaf4749eb3c1a8a88691"
   },
   {
     "character": "mimo",
@@ -765,7 +1003,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "failed",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "aae385ae5f9fc99edd5a76a128b3dc81ea8702480e19a0c59cde4dd0aaeb2f81"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/mimo/96/SizeNS.ani",
+    "hotspot": [
+      9,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "a35155e6cc06d03aa454685688e872efcc9542ebc97ee41eabe1b6ef42a69d46"
   },
   {
     "character": "mimo",
@@ -781,7 +1039,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "0472c3de42fe1023622cd394beaa09662eabf3bd2012ac681e8ab6ee67ecc476"
   },
   {
     "character": "mimo",
@@ -797,7 +1057,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "b9e9368e9f3a11162583aec24ca044c916d8196731fe1ccb8580ad4b805c8867"
   },
   {
     "character": "mimo",
@@ -813,7 +1075,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "29c0557f6dfde3c26b3ef995dab4e2c720c51d756540fc8fa3296d41a64e58d4"
   },
   {
     "character": "mimo",
@@ -829,7 +1093,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "ecf65b1c4ece18ad1ce4be3b435c293c8234b3156669612642af647d0e0d3ef9"
   },
   {
     "character": "mimo",
@@ -845,7 +1111,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "5cafe80f8f056e15edbdfb787899f831bba6f7d5d28b03b64c5046a5d8378d4d"
   },
   {
     "character": "mimo",
@@ -861,7 +1129,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "9c82be5635730b11d76b77c207f0c0a9d87a386f82352313c6e71b87c570b647"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/mimo/96/SizeWE.ani",
+    "hotspot": [
+      19,
+      9
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "0d4a270613d86dcf2ff78aa48d11e96361436f3f38d68a7cb353c45624a72495"
   },
   {
     "character": "mimo",
@@ -877,7 +1165,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "02a585b86431621aa0ea68e51741504227baa3f94e489e0e48397352b1e382a0"
   },
   {
     "character": "mimo",
@@ -893,7 +1183,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "030cf9af2e7c845fb7067fa47b11a2ce458d79719715778a853896cb02138414"
   },
   {
     "character": "mimo",
@@ -909,7 +1201,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "566eec229b977cc70bdeaefb08cd535225ddd82be78dd6f24fe5f4f6658d69bb"
   },
   {
     "character": "mimo",
@@ -925,7 +1219,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "7e47aff2015bde11809dadc43f09b0f71c38d0d4d65f151698b1b10d0ad40fce"
   },
   {
     "character": "mimo",
@@ -941,7 +1237,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "e52e41cd397538d948946e4e879739a0b4ff875463cdf662a3162b2383964733"
   },
   {
     "character": "mimo",
@@ -957,7 +1255,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "fed306a098b6e76a6cf8e12b8614fcf5b5f3152ef04cb05d314c8c87008ce1a0"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/mimo/96/SizeNWSE.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "91485d86d6775cadcdb133c7f27a4416c61846cbe8bbae120f890b2c5a545e32"
   },
   {
     "character": "mimo",
@@ -973,7 +1291,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "52a811c7126ada43c963dd87014a7df27e6dff7d4478e9bfc52bc65e3cf70b34"
   },
   {
     "character": "mimo",
@@ -989,7 +1309,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "aabcfe12b9658f0879b3f014aacf494d83e4f55a0c8bb41f1e6e4abf1b26ed30"
   },
   {
     "character": "mimo",
@@ -1005,7 +1327,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "58b49aa016af4e8db0eaec4c8f128b404a9c56b424486f6bd15ad38909034625"
   },
   {
     "character": "mimo",
@@ -1021,7 +1345,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "12775ada92035e6cc822da48ec2707b971fcd399aa9d9e2333e67bc8799dc616"
   },
   {
     "character": "mimo",
@@ -1037,7 +1363,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "b77a89dfc1fd00caf10a4f8a380110791fc12572ce5907ad6e0db06531ecb893"
   },
   {
     "character": "mimo",
@@ -1053,7 +1381,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "e46d51fee9832aca446a3c6c9f41c8df67e663c1cb14e8f3b9ca8afa5877ee31"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/mimo/96/SizeNESW.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "53639527f25bd1a19c81887eecdcb5d4321bf02e9533ca56be7d0a1046867cdb"
   },
   {
     "character": "mimo",
@@ -1069,7 +1417,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "a470d4e2ff2d9a62f654856ed3ffcaeefb7f4464a78a6d8a50aa3b7bffa324c5"
   },
   {
     "character": "mimo",
@@ -1085,7 +1435,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "a849ddcd086e31ca51aad1168ddce553fea2c51389ad1d4e7544d25fc324d772"
   },
   {
     "character": "mimo",
@@ -1101,7 +1453,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "65b4ce1b96d9768d33d31aacc9f2a0fdb827042aa9e537734d4260b5916125aa"
   },
   {
     "character": "mimo",
@@ -1117,7 +1471,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "abdbe207ad6cd8efecf3de26f8fe16333315448a973dfbe6a65a05c25e7c53a7"
   },
   {
     "character": "mimo",
@@ -1133,7 +1489,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "8245102fc84451132f51dc707312495d9e336d6588c5501eabcdbf9b728a2ad8"
   },
   {
     "character": "mimo",
@@ -1149,7 +1507,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-left",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "1d955d4c4d0cecf9875f652fec641927ec0397ddb5b9e4da4e8f186b341b872e"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/mimo/96/SizeAll.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "72118aee89821b55302f4f9ec17198c18cd493d7b5b2d40b4629ea66dccd400c"
   },
   {
     "character": "mimo",
@@ -1165,7 +1543,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "06eb3a7e54d3e40e32c195d3685c07cac9309ddecce8d2700091b1acf9ec9b75"
   },
   {
     "character": "mimo",
@@ -1181,7 +1561,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "15e5c4eaf6429a170b16a23910dd61174603efd6bc83d426a35f57594382660b"
   },
   {
     "character": "mimo",
@@ -1197,7 +1579,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "bfb9a1006b2cc6b1c1de50d774f58c30562ad3597d57e0f067650d80b715b29d"
   },
   {
     "character": "mimo",
@@ -1213,7 +1597,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "7290ea88c7e2e5cc8c00f2d6336b3d467e0281cc2eef0cf9a67f878adb75496f"
   },
   {
     "character": "mimo",
@@ -1229,7 +1615,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "6a3d8e74317e7421ab3960b95929805f5cbee9c38c3d99b28a219f2f31a589c3"
   },
   {
     "character": "mimo",
@@ -1245,7 +1633,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "walking-right",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "ce33e70cc1f4e424deb7872861e20e738ae739117b560f3670f75e71928f8460"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/mimo/96/UpArrow.ani",
+    "hotspot": [
+      17,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "387b6bd759be5b274a368a9ed19955f5dbdf1dc8caa0b17d15e5d37b1f3950d4"
   },
   {
     "character": "mimo",
@@ -1261,7 +1669,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "b71d7e0256e5142ba93d0221f020218e3734968b26ac07b049f98da9b8325493"
   },
   {
     "character": "mimo",
@@ -1277,7 +1687,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "67feaa53b78f0e927ec92ceb7d4790eac18d7bc822cb05dd4a420bcdde54741b"
   },
   {
     "character": "mimo",
@@ -1293,7 +1705,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "14fe54a0b4807b29e26e8deb73597331dc67374826c4b9b641fed5a777c3ba27"
   },
   {
     "character": "mimo",
@@ -1309,7 +1723,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "eddd1fbac31224aa97a951290ac7f0cd17c4966e558f102e733f02e1462f245b"
   },
   {
     "character": "mimo",
@@ -1325,7 +1741,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "7dfa39214492a3e267805e0a0f0005f2dcb0452cfbb8bfe5ac1ce012301bafdb"
   },
   {
     "character": "mimo",
@@ -1341,7 +1759,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "jumping",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "08fb5ba16ee78942df53323e92ce40162870947c2afcf5ec90427af484a72280"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/mimo/96/Hand.ani",
+    "hotspot": [
+      13,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "c14bd664814c9a222f5a290a053d4fb87b6f4f25622d57918cda7a5fb0524c99"
   },
   {
     "character": "mimo",
@@ -1357,7 +1795,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "b000d73230bec7d78882cc07c0466396ad5f3807cf73f2e3b5df25586810a975"
   },
   {
     "character": "mimo",
@@ -1373,7 +1813,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "96089be0b08365083cc5814837601d510eef6afee54af5c939f0a8ff12cf3774"
   },
   {
     "character": "mimo",
@@ -1389,7 +1831,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "952d9b4e7e6b3b091b58b05857239b54f75143d5b51b735175f97882e22f4f94"
   },
   {
     "character": "mimo",
@@ -1405,7 +1849,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "fdbd1ff8e3ebcff3133eef552d4fc978b5a81379202938ea5c8f7e7ef7f4d8f4"
   },
   {
     "character": "mimo",
@@ -1421,7 +1867,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "c979c8146e264b085432462100478a2f92cdc174882f2a263eb4b192141fd8aa"
   },
   {
     "character": "mimo",
@@ -1437,7 +1885,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "5e3f54a9b407a080a5091d767ac4cbfc0112d1bde4a08e5f654790708d13f729"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/mimo/96/Pin.ani",
+    "hotspot": [
+      16,
+      34
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "f376197a7428a1bf256ad8284d7f0ea55b98af134ed44b95edbd436d1bc6dfe8"
   },
   {
     "character": "mimo",
@@ -1453,7 +1921,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "24bb296d53538dbf63bd985ef1c0bc63cc8bda016dbfa5917f939fcebc2f1e89"
   },
   {
     "character": "mimo",
@@ -1469,7 +1939,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "b5e70af7cdce93de00c48e23fb44620ad2b1453fbfa21495d7b7f1baa26061ce"
   },
   {
     "character": "mimo",
@@ -1485,7 +1957,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "a539a018fa5535ec0c18e0ef828798533ea4ed11623331a20a50e4098f13c60f"
   },
   {
     "character": "mimo",
@@ -1501,7 +1975,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "efe3cf02acfaa2f864c58234bddfd4071162b86b87fe3a09a15b2e169e7f5446"
   },
   {
     "character": "mimo",
@@ -1517,7 +1993,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "b8e285a9f0314ef93e5acf6414febaf863d62eafdf7ae04c447eadb7c766e1f2"
   },
   {
     "character": "mimo",
@@ -1533,7 +2011,27 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waiting",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "fe6e9ec8864bf0fa459130c5b60ae5f624edd52b10b291e7c79022000acf90e2"
+  },
+  {
+    "character": "mimo",
+    "size": 96,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/mimo/96/Person.ani",
+    "hotspot": [
+      18,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "0a642928d2d2d8391b91cddec57f2db1e5b5261884432d832df0f607a3766b77"
   },
   {
     "character": "mimo",
@@ -1549,7 +2047,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 21
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "20e9bfc12b15856a5f4e60aaacab9aa0fcfedcc9efa6ea634921dd87cd2e9b0f"
   },
   {
     "character": "mimo",
@@ -1565,7 +2065,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 32
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "d516420eeb46a754b226acd5632cc276d89863e78616cd395037a39b72d0271f"
   },
   {
     "character": "mimo",
@@ -1581,7 +2083,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 43
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "3412f96efa2b5cfcd50774e4089f39da2042a40f8157215ceed5b35b11cf8e48"
   },
   {
     "character": "mimo",
@@ -1597,7 +2101,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 48
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "9522b7af0558e99092e8477a91128464aa2e50979808b6552393889925075273"
   },
   {
     "character": "mimo",
@@ -1613,7 +2119,9 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 85
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "617101b0af1ebc5b043568baf5223f62e5e2cba6d5d4ce7c6cdd322a40675200"
   },
   {
     "character": "mimo",
@@ -1629,6 +2137,2150 @@
     "jiffies": 8,
     "frame_ms": 133.33333333333334,
     "action": "waving",
-    "character_tile": 171
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "93de7b6479d83ecb200e1315c9cf382de2e0d159e564c76196b2b49fd8a267ad"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/mimo-short/96/Arrow.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "5d8876ad323351ae681de080bc218320eb039a91ba297b42dbc0be80b2f89c1f"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/mimo-short/32/Arrow.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "5e1541f169795ebc2e4ac0a40e87aec5a5d4653e2f9774e1d8fe0e72f56ad8d6"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/mimo-short/48/Arrow.ani",
+    "hotspot": [
+      2,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "c304b202a6367f49cb15676f446f2bc68f238386df466d5b25d19d94bd1393ae"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/mimo-short/64/Arrow.ani",
+    "hotspot": [
+      3,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "3fff0110f3d92c973a913b516801a7171345ff786fcb44f3dbcd3f7806561df9"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/mimo-short/72/Arrow.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "f618d43fd19655df2e6e5b9260f1b2f5c1c53c24757cdfa3bb85b945f8562451"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/mimo-short/128/Arrow.ani",
+    "hotspot": [
+      7,
+      7
+    ],
+    "frames": 8,
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "c89f7bd2458a4b01462de0bd1b3216bc47579807d763dca8dd0e6018540ec740"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "Arrow",
+    "label": "正常选择",
+    "file": "cursors/mimo-short/256/Arrow.ani",
+    "hotspot": [
+      15,
+      15
+    ],
+    "frames": 8,
+    "jiffies": 12,
+    "frame_ms": 200.0,
+    "action": "idle",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "eede54f3447b936765093119c46cc05dd878da100de2eb56055e5e45327fde60"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/mimo-short/96/Help.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "cee0202acaf24d8f1efb32d49abce388c5d4634cb00d682d7e67aa488316bad9"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/mimo-short/32/Help.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "74590244ee1568af19d539d4d2a01faaedf11f4228addf39dea6f990ffe0557e"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/mimo-short/48/Help.ani",
+    "hotspot": [
+      2,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "4889ee37071833380dec928f07b2932c22ecc91a1f929b13d1b624c5189b1b37"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/mimo-short/64/Help.ani",
+    "hotspot": [
+      3,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "fe9f250bcc6dc23e89f23707d493f97f9977584bc2db580125ad782cfa0d808c"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/mimo-short/72/Help.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "569497bc3683d94a3fcf7ec9845a5db150280412bb98822592a260bcf3da370a"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/mimo-short/128/Help.ani",
+    "hotspot": [
+      7,
+      7
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "877a7b2f1670aeb26645830332fc4ec94991fa6230791433b1391bdbaa9dd48f"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "Help",
+    "label": "帮助选择",
+    "file": "cursors/mimo-short/256/Help.ani",
+    "hotspot": [
+      14,
+      15
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "51891eee39c3e2b79460e03489be03b83c96d7e2ab3bce976f90cac9c12b2ad2"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/mimo-short/96/AppStarting.ani",
+    "hotspot": [
+      5,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "39e930ecd673af5061a51cfbb82c4e8b7cf95f2d61e3600125fcb9bb68aab386"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/mimo-short/32/AppStarting.ani",
+    "hotspot": [
+      1,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "54db00d94b1311a116987fcae7a9d926f92fd162714a9974eade9980df26d21c"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/mimo-short/48/AppStarting.ani",
+    "hotspot": [
+      2,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "fbb13b87e473dc74c8fe3163afd1bfaf27e98fdc246fd1def0eb8f63a9ad1f2a"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/mimo-short/64/AppStarting.ani",
+    "hotspot": [
+      3,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "bcefe0f82e831d84d0c7949f36b5e06faf107ef6149401dff5dcbe25e96a510e"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/mimo-short/72/AppStarting.ani",
+    "hotspot": [
+      4,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "11596b49ef27c8684497974e98f0ab00418aca2dbb058a35cd9861be13b0fad7"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/mimo-short/128/AppStarting.ani",
+    "hotspot": [
+      6,
+      7
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "131fd36b49ee8425bd33b7ba5b26def7f2f86a08d8581c49ae5245bb17246703"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "AppStarting",
+    "label": "后台运行",
+    "file": "cursors/mimo-short/256/AppStarting.ani",
+    "hotspot": [
+      14,
+      14
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "1bbae9f2cf1911ce748fe165a8fa057b24e581ef60752774e7a7cfe7a3ffd728"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/mimo-short/96/Wait.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "7b0a5abeb655bae5b483ea7b8857ee8cac8b1b12aa429f24cd04604487f41703"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/mimo-short/32/Wait.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "7319c6f073e9c918a4e6cb7d381f19bb055638a4f6aa3db9bbbe73ee9c96a474"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/mimo-short/48/Wait.ani",
+    "hotspot": [
+      10,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "38aa84295d6ac5613c95ddd05b3efe9f1bcb7bbfeef68d84f807d18a45b00d79"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/mimo-short/64/Wait.ani",
+    "hotspot": [
+      12,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "664a713bbd3d4315d7ac60b5d2a63c45a1dfad835b40a4c2cf8fb66b289740c2"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/mimo-short/72/Wait.ani",
+    "hotspot": [
+      15,
+      15
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "4e691a35d3680702982a0cf52a283cb212635afb32d87bb1aa296025edecf183"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/mimo-short/128/Wait.ani",
+    "hotspot": [
+      26,
+      26
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "1a60ef83ac0a4a3cb2379f2940e2e6aa4ad7786492ae08f844f2c57b37480ba1"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "Wait",
+    "label": "忙碌",
+    "file": "cursors/mimo-short/256/Wait.ani",
+    "hotspot": [
+      53,
+      53
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "bde418cf5297abb383a583d986660f676824df4f3112ee8eae92b47cc3ca23b9"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/mimo-short/96/Crosshair.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "cd6ec9d811b55f3e8c5bd0673a12e97e17a01b2afc251f066c86a74bf37c6564"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/mimo-short/32/Crosshair.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "d324eb2b526627f644ae1daa2090667c42c1090ac9029d627765fa4b11fbb21e"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/mimo-short/48/Crosshair.ani",
+    "hotspot": [
+      10,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "6f6ca76328887b004b364110334238d166d123783a6b9bc8bf07e85229b0414a"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/mimo-short/64/Crosshair.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "7a1968f6e0a8b8ee8e87f0dddc7be9b33e9ef645981a5894c3b769f37d2101e3"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/mimo-short/72/Crosshair.ani",
+    "hotspot": [
+      15,
+      15
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "609ad97c4cc89a831a48c9bf008627f77b0a91a6a43a82da153f154e847c7b45"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/mimo-short/128/Crosshair.ani",
+    "hotspot": [
+      26,
+      26
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "499a626d6f93e14be8909668c53df020449e2b0f2544728c92934821331ebac7"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "Crosshair",
+    "label": "精确选择",
+    "file": "cursors/mimo-short/256/Crosshair.ani",
+    "hotspot": [
+      53,
+      53
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "review",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "a5bb1094075184456d67ef1f6591e0b4f007fcd69db5a102f6cf64030aa02ad6"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/mimo-short/96/IBeam.ani",
+    "hotspot": [
+      11,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "8fee33ebd5c0da597f8d973d495c6a6d4e85dc4bc9097a8bcaa150fe28dbb3e0"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/mimo-short/32/IBeam.ani",
+    "hotspot": [
+      3,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "1fb6428e123be3f0a151bb0fd0f3448e558ec803a4755d401632d3766f42c68d"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/mimo-short/48/IBeam.ani",
+    "hotspot": [
+      6,
+      9
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "76fb9e61d57f75d07189aad08c886cbe922c224dc4c03d3128dd0d26daf52873"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/mimo-short/64/IBeam.ani",
+    "hotspot": [
+      7,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "7106dc0572101b7ce93efebaa7c4f4a6de8a0ba31b035ec18d00794b0c49e5a3"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/mimo-short/72/IBeam.ani",
+    "hotspot": [
+      8,
+      15
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "39e3104d5f445c97c5d44e72861ca0737b76b3e5b676dba540058d5d42df7b96"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/mimo-short/128/IBeam.ani",
+    "hotspot": [
+      15,
+      26
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "d0a4373be6aad8799fbcc741595ab92be3877dadc37c1c41017b2ced0ae1ffb9"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "IBeam",
+    "label": "文本选择",
+    "file": "cursors/mimo-short/256/IBeam.ani",
+    "hotspot": [
+      31,
+      53
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "b6d3aacdb386b65a93fa77f5b8560e88a8a366c36fa08bd31fc667ac4afdeef0"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/mimo-short/96/NWPen.ani",
+    "hotspot": [
+      5,
+      33
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "3c91821f9730253f4535ec6022d1947f467ab5dff0f61abebe591dc345aeecc8"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/mimo-short/32/NWPen.ani",
+    "hotspot": [
+      1,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "e1a833044acaa11d5c210a2fad6bac8c8442f02a9e7357c3bc4446a8542e8011"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/mimo-short/48/NWPen.ani",
+    "hotspot": [
+      2,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "e8e6dfd552fb275cbf7a842f5c0fdf6c6fc3912761049587ebf00fbcd4ca5f34"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/mimo-short/64/NWPen.ani",
+    "hotspot": [
+      3,
+      22
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "38584b1b51a0e6b85aa7a9afb0a709a3894de0011e2221d48db2132ac97424e9"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/mimo-short/72/NWPen.ani",
+    "hotspot": [
+      4,
+      25
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "ba5b88622a20dd9a6f7ab5ddbc2060d61e88c4a44aec627b350b7ce531e408b4"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/mimo-short/128/NWPen.ani",
+    "hotspot": [
+      7,
+      45
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "b343aa2a59809eef228a90ce5072e9733757064425be77e70b952705266d19f7"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "NWPen",
+    "label": "手写",
+    "file": "cursors/mimo-short/256/NWPen.ani",
+    "hotspot": [
+      15,
+      91
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "working",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "36d4a918bd8a7c790b095429cbf1c922408b005da00e7ee697ab4b3e113eb10a"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/mimo-short/96/No.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "91fe55c93720b63a6c2503a958961fbdcb9ec30a39e9ba95419d1ee5ef3213e9"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/mimo-short/32/No.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "d1ac9c877421da7933bc1f6d6effcc25e97f454833a03b28e526217e54231c1e"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/mimo-short/48/No.ani",
+    "hotspot": [
+      10,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "6b5f5cd7f65a5e24f0c3f8a0359d0d102018b3086d99a64a6aef9571b740458e"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/mimo-short/64/No.ani",
+    "hotspot": [
+      12,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "7ca7bbc0aa9fa9f23cff7836a8ca03617ce3eba8e153e178d69fef7f2d15c51f"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/mimo-short/72/No.ani",
+    "hotspot": [
+      15,
+      15
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "73db7060cfac51b6f99c5219e374520e2d14a5232595243d7594a26b70da9624"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/mimo-short/128/No.ani",
+    "hotspot": [
+      26,
+      26
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "36d4e21786a8beb6a8ca940bf35d454d52c064df19865bf3c4807a7e54354497"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "No",
+    "label": "不可用",
+    "file": "cursors/mimo-short/256/No.ani",
+    "hotspot": [
+      53,
+      53
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "failed",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "0690316b5342b9a1b694c534c8901fab150f2a1fb85fd7c70e73312458c6fc78"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/mimo-short/96/SizeNS.ani",
+    "hotspot": [
+      9,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "6aec146b600647499d22aaba241f8a065f42383b8f27e327318b987b288c7ea8"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/mimo-short/32/SizeNS.ani",
+    "hotspot": [
+      3,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "b064c402b0dcdf172100a8d4e5c37002b922690a409a8756ecd4e8ef7885d783"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/mimo-short/48/SizeNS.ani",
+    "hotspot": [
+      5,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "6ce4755b96ee7e4018ca1bfc188898f97ab185255cdc596a4ccf53e7b18bbcd6"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/mimo-short/64/SizeNS.ani",
+    "hotspot": [
+      6,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "c1dfbf75152d596b4632cbde600479d7bc9ab924fc965d1f4e1e9e0e067a01d4"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/mimo-short/72/SizeNS.ani",
+    "hotspot": [
+      8,
+      15
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "9375eb14ce9a861351ebb67174132abc13523ffcfa375c129f6bd7f14b34945f"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/mimo-short/128/SizeNS.ani",
+    "hotspot": [
+      13,
+      26
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "3e317111182474a39089f16e14dfd6f33f9c12fda36e90793ad03592cddb27b5"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "SizeNS",
+    "label": "垂直调整",
+    "file": "cursors/mimo-short/256/SizeNS.ani",
+    "hotspot": [
+      27,
+      53
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "173542f039a665c65bb314c299b9f1b7f40098c0edfbf874952254b13f169ac4"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/mimo-short/96/SizeWE.ani",
+    "hotspot": [
+      19,
+      9
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "c61f72342bbb89b2ed8dc1f788794dc01314cbb4eb468f1e5808be165ba0fa3e"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/mimo-short/32/SizeWE.ani",
+    "hotspot": [
+      6,
+      2
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "00d077ba9d6c3ad70055686acdb0eec090777bc2b83f1c4e4fd7f3272a6aad75"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/mimo-short/48/SizeWE.ani",
+    "hotspot": [
+      10,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "0cd17025bb40140bd5a53bf61450e94ccdc6f81401a15db4e5e8bae088578975"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/mimo-short/64/SizeWE.ani",
+    "hotspot": [
+      12,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "69d9b454d3fcc7c5a6b64371d095edc7229c9a9c4f3427fbb4420d05b0375bc2"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/mimo-short/72/SizeWE.ani",
+    "hotspot": [
+      15,
+      7
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "b5aa8aaf72da1104d8d6d74a09a1774447515357ed5e5452c71d124631bcd79c"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/mimo-short/128/SizeWE.ani",
+    "hotspot": [
+      26,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "d49125b9943eb2a7d0b52d4cb1717b41d3cbff774dcd1cfa9853772d72b51047"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "SizeWE",
+    "label": "水平调整",
+    "file": "cursors/mimo-short/256/SizeWE.ani",
+    "hotspot": [
+      52,
+      26
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "1cfb1e55497ef17a9765a5ccfae830917f14f08af2a341b79aab91375c19b1c7"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/mimo-short/96/SizeNWSE.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "1ae48a470bc5c7a39b63f6dc144234e07acb38d7fc0115d28bb031edfbaae73d"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/mimo-short/32/SizeNWSE.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "5955411f90def5ff52dd2bcc78e733a4e1c1ae1897e48b1c0f25e6426690bb6c"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/mimo-short/48/SizeNWSE.ani",
+    "hotspot": [
+      10,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "38d4b32af7bd0e8ca9929a8b0e36fad0b0148bedfbccf2ee083955d3cb1c890a"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/mimo-short/64/SizeNWSE.ani",
+    "hotspot": [
+      12,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "b5c399e4e54dd26cff44e5b95d243d30642cb2f80373dca04dc66fcce2b34f09"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/mimo-short/72/SizeNWSE.ani",
+    "hotspot": [
+      15,
+      15
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "676de21253f6a462c8ef753948ebc2ba4235654866aeb0443f0c57123a1e994e"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/mimo-short/128/SizeNWSE.ani",
+    "hotspot": [
+      26,
+      26
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "d26c1b10b4efc24865f92fce2fff6d8d8aeffadee8bef0ae6d58fd2d2b9b3e0b"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "SizeNWSE",
+    "label": "对角调整1",
+    "file": "cursors/mimo-short/256/SizeNWSE.ani",
+    "hotspot": [
+      53,
+      53
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "5d6f3aac5193e464335a55e19c896ab01a1398f2b6d25c2e55e12f71c10ffebf"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/mimo-short/96/SizeNESW.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "95a1ec1f7dae069c1ff7993bdd351368dcaac775c272d9da252128c5c74c8e4b"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/mimo-short/32/SizeNESW.ani",
+    "hotspot": [
+      6,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "3e91b4beb987c31444fb710b60f1a9e0fdf440d2e3300e3c291cd2d000a514d4"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/mimo-short/48/SizeNESW.ani",
+    "hotspot": [
+      10,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "032a93e380c0c7cf782462ba50b001db990f4828a7b4c392b19b21a6a17646fb"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/mimo-short/64/SizeNESW.ani",
+    "hotspot": [
+      13,
+      13
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "ee07d5f7350d64e70e713519ff43a40fe3a99bdad2526935694c3513e50dfb25"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/mimo-short/72/SizeNESW.ani",
+    "hotspot": [
+      15,
+      15
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "c4ccb20380d2fca71ad60d6eb17b6cd15f45e3a722eff9b03e43703b3aa8522c"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/mimo-short/128/SizeNESW.ani",
+    "hotspot": [
+      26,
+      26
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "a97841c5d34527c781c532f3eab144fcef3506cf0076f0181dba12f301f4d60e"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "SizeNESW",
+    "label": "对角调整2",
+    "file": "cursors/mimo-short/256/SizeNESW.ani",
+    "hotspot": [
+      53,
+      53
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-left",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "7375cab728bfc30b75d297a99eec1b77835b6138ccd527c5c0bac63a98b0ef4b"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/mimo-short/96/SizeAll.ani",
+    "hotspot": [
+      19,
+      19
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "2a7364811531e9a07553a0893aae63db67c2edc072b73f2fa3f7b39f18a306d2"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/mimo-short/32/SizeAll.ani",
+    "hotspot": [
+      6,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "3682e3850ad42c89493b6bbeee83cf6bdf0c6248acf020f7d053095ce3a26ce7"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/mimo-short/48/SizeAll.ani",
+    "hotspot": [
+      10,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "8eab50d02164b0215f0c71fd92b2a60d6277eb7f5ebc0b9235c1d6e5b84b7e56"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/mimo-short/64/SizeAll.ani",
+    "hotspot": [
+      12,
+      12
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "b04837405f7d0b9f3a548f3fe221a2ba25a10628cabe9bc700299157c3048338"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/mimo-short/72/SizeAll.ani",
+    "hotspot": [
+      15,
+      15
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "9c08a6f405d3d5006ff11863253b34511e08419b5725b43d84b0df52040a3d17"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/mimo-short/128/SizeAll.ani",
+    "hotspot": [
+      26,
+      26
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "39f7e5dc355b23c16206081752ec3e2845b717cdb63b8ce3effb98ca953500c6"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "SizeAll",
+    "label": "移动",
+    "file": "cursors/mimo-short/256/SizeAll.ani",
+    "hotspot": [
+      52,
+      52
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "walking-right",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "f7e8e1cef7541bde117d51fb806953debb46e3effca2d92e1163f8eb3477d538"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/mimo-short/96/UpArrow.ani",
+    "hotspot": [
+      17,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "ecb6c2481f39820142f0d17824e3e7db8190ee19fd9c5f8aa26dae465751eac0"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/mimo-short/32/UpArrow.ani",
+    "hotspot": [
+      5,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "dca718dfb1c2a0dadd139b387ce01e479153847c35468e2c4b7a607376eb9c31"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/mimo-short/48/UpArrow.ani",
+    "hotspot": [
+      9,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "82d0aa3cbeead896433180b5ebe5a4b493f4329135212cf5f147c87075a2d3be"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/mimo-short/64/UpArrow.ani",
+    "hotspot": [
+      11,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "4474cc49ec76f215bc3103c2c902497c67fb0ba142f9430162a487f21897997b"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/mimo-short/72/UpArrow.ani",
+    "hotspot": [
+      13,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "6c27776742e4d131649023b5930710195cc68ca9d62359df9013c96dca04612a"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/mimo-short/128/UpArrow.ani",
+    "hotspot": [
+      23,
+      6
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "00cc1e3f62a2bab0c04ba55adbc113dc02bfdd9ac51072f9d65183a5a53f1e90"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "UpArrow",
+    "label": "候选选择",
+    "file": "cursors/mimo-short/256/UpArrow.ani",
+    "hotspot": [
+      47,
+      14
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "jumping",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "8aafc34dd6bfd82b584e0f6036262a143cb4db0b75f618daca7178125620be5d"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/mimo-short/96/Hand.ani",
+    "hotspot": [
+      13,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "02a4b9da969799c9affdfbcb4fd51ea45c62522530a36ec6a0ea928195bd94ec"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/mimo-short/32/Hand.ani",
+    "hotspot": [
+      4,
+      1
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "22ace6951f154d34b71aa821f27347fb53628b966918f84b58a52dbbd3e13bd3"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/mimo-short/48/Hand.ani",
+    "hotspot": [
+      6,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "ab0ec9835fb439ec23a26cab00f5dfff81769a7cbe5d38772cb14869decd5e94"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/mimo-short/64/Hand.ani",
+    "hotspot": [
+      8,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "b889f41f5fe1979af185cc5d2c5a019bfb73a3b6f2ec6889d58945b13c2384a8"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/mimo-short/72/Hand.ani",
+    "hotspot": [
+      10,
+      4
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "02fe6685577c0abd43f9f9c440a6dea3cca0a09ab598e16a052cb5ec55b84dd6"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/mimo-short/128/Hand.ani",
+    "hotspot": [
+      17,
+      7
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "d85da7bb6398ff8ae9f049006b1d41bbb9792446e10191fc1c9da8080d3dbf9e"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "Hand",
+    "label": "链接选择",
+    "file": "cursors/mimo-short/256/Hand.ani",
+    "hotspot": [
+      36,
+      15
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "e02de04fec344919a224b8ff990ef6be030a558ddd69961e273d17696a4f3f39"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/mimo-short/96/Pin.ani",
+    "hotspot": [
+      16,
+      34
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "cfb4907fb042422bf8e030259fe64655b45c94db54d6ee3a9b5902cef9f53673"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/mimo-short/32/Pin.ani",
+    "hotspot": [
+      4,
+      11
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "1b4658ef3d8fb65ac6f840f3b8b1d4e9fc5f68ebc2fb312f2065db748c8f3b35"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/mimo-short/48/Pin.ani",
+    "hotspot": [
+      8,
+      17
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "c5a863a7373d5e5ddb7bd26e20f6ca486235a9998521082a5cea668c2bca2bd0"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/mimo-short/64/Pin.ani",
+    "hotspot": [
+      10,
+      22
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "fd4f35f94fe795f55f96f536f99e0034dec991c14acaeed3acbbfc6c54a786b6"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/mimo-short/72/Pin.ani",
+    "hotspot": [
+      12,
+      26
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "d3477db0c6a4ac853ee54da34eaba4af4796bfb3c3429a521ef37dfa1064e0ae"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/mimo-short/128/Pin.ani",
+    "hotspot": [
+      21,
+      45
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "98d661f494ee7cc0746d54e924da4059924606a2153e8adbeadc0448f2091477"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "Pin",
+    "label": "位置选择",
+    "file": "cursors/mimo-short/256/Pin.ani",
+    "hotspot": [
+      43,
+      91
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waiting",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "18779791f211d3a6336fa4293090e5dfdacbdff335b6dc0d75f4c1f73b1de55c"
+  },
+  {
+    "character": "mimo-short",
+    "size": 96,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/mimo-short/96/Person.ani",
+    "hotspot": [
+      18,
+      10
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 128,
+    "character_reference_size": 96,
+    "sha256": "3b9d6052c9cb8569fed69246700dbac4ec287c39bfd681c7d1778d4c217db71e"
+  },
+  {
+    "character": "mimo-short",
+    "size": 32,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/mimo-short/32/Person.ani",
+    "hotspot": [
+      5,
+      3
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 64,
+    "character_reference_size": 32,
+    "sha256": "596e9a44e1240e837e4a349328293708dd067ee34e9fb5d924d7a8e702cf1e64"
+  },
+  {
+    "character": "mimo-short",
+    "size": 48,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/mimo-short/48/Person.ani",
+    "hotspot": [
+      9,
+      5
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 64,
+    "character_reference_size": 48,
+    "sha256": "a0cdeb48f75407796871b5afe457431acfa2cdf586160e4bc56df4e9d2e768b2"
+  },
+  {
+    "character": "mimo-short",
+    "size": 64,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/mimo-short/64/Person.ani",
+    "hotspot": [
+      11,
+      7
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 96,
+    "character_reference_size": 64,
+    "sha256": "10dc09b6959ec006b94825c818ed1d60d587fbbde7ffb728d844b6171128ec49"
+  },
+  {
+    "character": "mimo-short",
+    "size": 72,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/mimo-short/72/Person.ani",
+    "hotspot": [
+      13,
+      8
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 96,
+    "character_reference_size": 72,
+    "sha256": "2bb0de8160c1e174640efe2a62255022cb11d0ee156bef06ba891e519b90e01f"
+  },
+  {
+    "character": "mimo-short",
+    "size": 128,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/mimo-short/128/Person.ani",
+    "hotspot": [
+      24,
+      14
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 192,
+    "character_reference_size": 128,
+    "sha256": "4305700514349bcdb733d5addabfce3c8c059daec8cf92dcb577426a40e0b75e"
+  },
+  {
+    "character": "mimo-short",
+    "size": 256,
+    "role": "Person",
+    "label": "人员选择",
+    "file": "cursors/mimo-short/256/Person.ani",
+    "hotspot": [
+      49,
+      29
+    ],
+    "frames": 8,
+    "jiffies": 8,
+    "frame_ms": 133.33333333333334,
+    "action": "waving",
+    "render_size": 352,
+    "character_reference_size": 256,
+    "sha256": "5b8e475f65a5b0bb665dd150e33613b42a4a5d70e736010d9cd5044abe538325"
   }
 ]

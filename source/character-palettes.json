@@ -1,0 +1,16 @@
+{
+  "mimo": {
+    "INK": "#2b2118",
+    "WHITE": "#fff8f2",
+    "MINT": "#ff6900",
+    "GOLD": "#e8c66a",
+    "OUTER": "#2b2118"
+  },
+  "mimo-short": {
+    "INK": "#2b2118",
+    "WHITE": "#fff8f2",
+    "MINT": "#ff6900",
+    "GOLD": "#e8c66a",
+    "OUTER": "#2b2118"
+  }
+}
