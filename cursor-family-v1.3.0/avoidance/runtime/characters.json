@@ -1,0 +1,340 @@
+[
+  {
+    "id": "mimo-original-32",
+    "character": "mimo",
+    "display": "MiMo原版 普通 32档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo original 32",
+    "edition": "original",
+    "size": 32,
+    "symbolLongEdge": 8,
+    "bodyCanvas": [
+      32,
+      32
+    ]
+  },
+  {
+    "id": "mimo-original-48",
+    "character": "mimo",
+    "display": "MiMo原版 普通 48档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo original 48",
+    "edition": "original",
+    "size": 48,
+    "symbolLongEdge": 12,
+    "bodyCanvas": [
+      44,
+      48
+    ]
+  },
+  {
+    "id": "mimo-original-64",
+    "character": "mimo",
+    "display": "MiMo原版 普通 64档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo original 64",
+    "edition": "original",
+    "size": 64,
+    "symbolLongEdge": 16,
+    "bodyCanvas": [
+      57,
+      64
+    ]
+  },
+  {
+    "id": "mimo-original-96",
+    "character": "mimo",
+    "display": "MiMo原版 普通 96档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo original 96",
+    "edition": "original",
+    "size": 96,
+    "symbolLongEdge": 20,
+    "bodyCanvas": [
+      83,
+      94
+    ]
+  },
+  {
+    "id": "mimo-original-128",
+    "character": "mimo",
+    "display": "MiMo原版 普通 128档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo original 128",
+    "edition": "original",
+    "size": 128,
+    "symbolLongEdge": 24,
+    "bodyCanvas": [
+      109,
+      124
+    ]
+  },
+  {
+    "id": "mimo-original-256",
+    "character": "mimo",
+    "display": "MiMo原版 普通 256档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo original 256",
+    "edition": "original",
+    "size": 256,
+    "symbolLongEdge": 28,
+    "bodyCanvas": [
+      210,
+      239
+    ]
+  },
+  {
+    "id": "mimo-plus-32",
+    "character": "mimo",
+    "display": "MiMo原版 Plus 32档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo plus 32",
+    "edition": "plus",
+    "size": 32,
+    "symbolLongEdge": 12,
+    "bodyCanvas": [
+      32,
+      32
+    ]
+  },
+  {
+    "id": "mimo-plus-48",
+    "character": "mimo",
+    "display": "MiMo原版 Plus 48档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo plus 48",
+    "edition": "plus",
+    "size": 48,
+    "symbolLongEdge": 16,
+    "bodyCanvas": [
+      44,
+      48
+    ]
+  },
+  {
+    "id": "mimo-plus-64",
+    "character": "mimo",
+    "display": "MiMo原版 Plus 64档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo plus 64",
+    "edition": "plus",
+    "size": 64,
+    "symbolLongEdge": 20,
+    "bodyCanvas": [
+      57,
+      64
+    ]
+  },
+  {
+    "id": "mimo-plus-72",
+    "character": "mimo",
+    "display": "MiMo原版 Plus 72档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo plus 72",
+    "edition": "plus",
+    "size": 72,
+    "symbolLongEdge": 22,
+    "bodyCanvas": [
+      64,
+      72
+    ]
+  },
+  {
+    "id": "mimo-plus-96",
+    "character": "mimo",
+    "display": "MiMo原版 Plus 96档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo plus 96",
+    "edition": "plus",
+    "size": 96,
+    "symbolLongEdge": 24,
+    "bodyCanvas": [
+      83,
+      94
+    ]
+  },
+  {
+    "id": "mimo-plus-128",
+    "character": "mimo",
+    "display": "MiMo原版 Plus 128档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo plus 128",
+    "edition": "plus",
+    "size": 128,
+    "symbolLongEdge": 28,
+    "bodyCanvas": [
+      109,
+      124
+    ]
+  },
+  {
+    "id": "mimo-plus-256",
+    "character": "mimo",
+    "display": "MiMo原版 Plus 256档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo plus 256",
+    "edition": "plus",
+    "size": 256,
+    "symbolLongEdge": 30,
+    "bodyCanvas": [
+      210,
+      239
+    ]
+  },
+  {
+    "id": "mimo-short-original-32",
+    "character": "mimo-short",
+    "display": "MiMo短发 普通 32档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo-short original 32",
+    "edition": "original",
+    "size": 32,
+    "symbolLongEdge": 8,
+    "bodyCanvas": [
+      28,
+      32
+    ]
+  },
+  {
+    "id": "mimo-short-original-48",
+    "character": "mimo-short",
+    "display": "MiMo短发 普通 48档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo-short original 48",
+    "edition": "original",
+    "size": 48,
+    "symbolLongEdge": 12,
+    "bodyCanvas": [
+      40,
+      48
+    ]
+  },
+  {
+    "id": "mimo-short-original-64",
+    "character": "mimo-short",
+    "display": "MiMo短发 普通 64档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo-short original 64",
+    "edition": "original",
+    "size": 64,
+    "symbolLongEdge": 16,
+    "bodyCanvas": [
+      51,
+      64
+    ]
+  },
+  {
+    "id": "mimo-short-original-96",
+    "character": "mimo-short",
+    "display": "MiMo短发 普通 96档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo-short original 96",
+    "edition": "original",
+    "size": 96,
+    "symbolLongEdge": 20,
+    "bodyCanvas": [
+      74,
+      95
+    ]
+  },
+  {
+    "id": "mimo-short-original-128",
+    "character": "mimo-short",
+    "display": "MiMo短发 普通 128档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo-short original 128",
+    "edition": "original",
+    "size": 128,
+    "symbolLongEdge": 24,
+    "bodyCanvas": [
+      98,
+      125
+    ]
+  },
+  {
+    "id": "mimo-short-original-256",
+    "character": "mimo-short",
+    "display": "MiMo短发 普通 256档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo-short original 256",
+    "edition": "original",
+    "size": 256,
+    "symbolLongEdge": 28,
+    "bodyCanvas": [
+      188,
+      240
+    ]
+  },
+  {
+    "id": "mimo-short-plus-32",
+    "character": "mimo-short",
+    "display": "MiMo短发 Plus 32档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo-short plus 32",
+    "edition": "plus",
+    "size": 32,
+    "symbolLongEdge": 12,
+    "bodyCanvas": [
+      28,
+      32
+    ]
+  },
+  {
+    "id": "mimo-short-plus-48",
+    "character": "mimo-short",
+    "display": "MiMo短发 Plus 48档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo-short plus 48",
+    "edition": "plus",
+    "size": 48,
+    "symbolLongEdge": 16,
+    "bodyCanvas": [
+      40,
+      48
+    ]
+  },
+  {
+    "id": "mimo-short-plus-64",
+    "character": "mimo-short",
+    "display": "MiMo短发 Plus 64档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo-short plus 64",
+    "edition": "plus",
+    "size": 64,
+    "symbolLongEdge": 20,
+    "bodyCanvas": [
+      51,
+      64
+    ]
+  },
+  {
+    "id": "mimo-short-plus-72",
+    "character": "mimo-short",
+    "display": "MiMo短发 Plus 72档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo-short plus 72",
+    "edition": "plus",
+    "size": 72,
+    "symbolLongEdge": 22,
+    "bodyCanvas": [
+      56,
+      72
+    ]
+  },
+  {
+    "id": "mimo-short-plus-96",
+    "character": "mimo-short",
+    "display": "MiMo短发 Plus 96档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo-short plus 96",
+    "edition": "plus",
+    "size": 96,
+    "symbolLongEdge": 24,
+    "bodyCanvas": [
+      74,
+      95
+    ]
+  },
+  {
+    "id": "mimo-short-plus-128",
+    "character": "mimo-short",
+    "display": "MiMo短发 Plus 128档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo-short plus 128",
+    "edition": "plus",
+    "size": 128,
+    "symbolLongEdge": 28,
+    "bodyCanvas": [
+      98,
+      125
+    ]
+  },
+  {
+    "id": "mimo-short-plus-256",
+    "character": "mimo-short",
+    "display": "MiMo短发 Plus 256档",
+    "scheme": "AI Family avoidance v1.3.0 - mimo-short plus 256",
+    "edition": "plus",
+    "size": 256,
+    "symbolLongEdge": 30,
+    "bodyCanvas": [
+      188,
+      240
+    ]
+  }
+]
