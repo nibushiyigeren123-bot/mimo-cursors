@@ -1,0 +1,30 @@
+{
+  "version": "v1.4.0",
+  "kind": "full-avoidance",
+  "runtimeSha256": "0e7a173da8c96ac7e1d21386966e90095b0083e2959c9eba4436406a5a20ff23",
+  "assets": [
+    {
+      "name": "mimo-cursors-full-avoidance-v1.4.0.zip",
+      "bytes": 68621662,
+      "sha256": "75a23a1b69b4960297c959a01898ec62c742771c2b021bfd7aab2d7be510ba51"
+    },
+    {
+      "name": "mimo-cursors-full-avoidance-source-v1.4.0.zip",
+      "bytes": 510295,
+      "sha256": "831851ed715b1950676328c3a4bde6de8c9936e4c78d5dcb5e8d5106b918ab6e"
+    },
+    {
+      "name": "VALIDATION.md",
+      "bytes": 2599,
+      "sha256": "95f05bd4982c9293728ee1447c63c4a783632827f79f985e549ab0632970173f"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 219,
+      "sha256": "8bbc651283c5fa6bd3c81566b02b04b20e66f186ba72660db0799b7d53cc4792"
+    }
+  ],
+  "originalCmdInvocationPreserved": true,
+  "cmdWaitingMessageAdded": 26,
+  "originalMediaUnchanged": true
+}
